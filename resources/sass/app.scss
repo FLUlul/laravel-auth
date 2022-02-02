@@ -6,3 +6,14 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+body {
+    background-color: grey;
+    text-align: center;
+}
+.content {
+    margin: 100px 0;
+}
+header, footer {
+    background-color: darkgray;
+}
